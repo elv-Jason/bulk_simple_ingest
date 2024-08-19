@@ -12,7 +12,7 @@ This package specifically targets the ingestion of the [moveCLIP dataset](https:
      ├── TitleExtract.js
      ├── SimpleIngest.js
      ├── data
-     │   ├── config.json
+         ├── config.json
          ├── content_data.json
          ├── mp4_names.json
 
