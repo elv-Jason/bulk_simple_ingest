@@ -1,72 +1,90 @@
 {
   "public": {
     "asset_metadata": {
-      "display_title": "Harry Potter and the Half-Blood Prince 2009",
-      "movie_clips_id": "Xsa1B-RyyXQ",
+      "display_title": "Teaching Mrs. Tingle 1999",
+      "movie_clips_id": "YczVaT_czPE",
       "info": {
-        "copy_right": "TM & © Warner Bros. (2009)",
-        "run_time": "00:01:58.08",
-        "synopsis": "Harry (Daniel Radcliffe) uses a devastating spell during a fight with Draco (Tom Felton).",
+        "copy_right": "TM & © Miramax Films (1999)",
+        "run_time": "00:02:50.13",
+        "synopsis": "Mrs. Tingle (Helen Mirren) snatches a copy of her final exam from Leigh Ann's (Katie Holmes) backpack, reveling in the fact that Leigh Ann's personal integrity -- and her graduation status -- now hang in the balance.",
         "talent": {
           "actor": [
             {
-              "name": "Tom Felton",
+              "name": "Barry Watson",
               "talent_type": "Actor"
             },
             {
-              "name": "Daniel Radcliffe",
+              "name": "Helen Mirren",
               "talent_type": "Actor"
             },
             {
-              "name": "Alan Rickman",
+              "name": "Katie Holmes",
+              "talent_type": "Actor"
+            },
+            {
+              "name": "Marisa Coughlan",
               "talent_type": "Actor"
             }
           ],
           "director": [
             {
-              "name": "David Yates",
+              "name": "Kevin Williamson",
               "talent_type": "Director"
             }
           ],
           "producer": [
             {
-              "name": "David Heyman",
+              "name": "Ted Field",
               "talent_type": "Producer"
             },
             {
-              "name": "Lionel Wigram",
+              "name": "Michael Finnell",
               "talent_type": "Producer"
             },
             {
-              "name": "Tim Lewis",
+              "name": "Gina Fortunato",
               "talent_type": "Producer"
             },
             {
-              "name": "David Barron",
+              "name": "Cary Granat",
               "talent_type": "Producer"
             },
             {
-              "name": "John Trehy",
+              "name": "Paul Hellerman",
               "talent_type": "Producer"
-            }
-          ],
-          "screenplay": [
-            {
-              "name": "Steve Kloves",
-              "talent_type": "Screenwriter"
             },
             {
-              "name": "J.K. Rowling",
-              "talent_type": "Screenwriter"
+              "name": "Erica Huggins",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Cathy Konrad",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Scott Kroopf",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Julie Plec",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Bob Weinstein",
+              "talent_type": "Producer"
+            },
+            {
+              "name": "Harvey Weinstein",
+              "talent_type": "Producer"
             }
           ]
         },
-        "release_year": "2009"
+        "release_year": "1999"
       },
-      "title": "Harry Potter and the Half-Blood Prince (1/5) Movie CLIP - Harry vs. Draco (2009) HD",
-      "query": "Harry vs. Draco",
-      "film_description": "Adolescent wizard-in-training Harry Potter returns to Hogwarts for another year of schooling and learns more about the dark past of the boy who grew up to become Lord Voldemort in this, the sixth installment of the film series that originated from the writings of author J.K. Rowling. There was a time when Hogwarts was thought of as a safe haven, but thanks to Voldemort's tightening grip on both the Muggle and wizarding worlds, that simply isn't the case anymore. Suspecting that the castle may even harbor an outright threat, Harry finds his investigation into the matter sidelined by Dumbledore's attempts to prepare him for the monumental battle looming ever closer on the horizon. In order to discover the key to Voldemort's defenses, Dumbledore enlists the aid of resourceful yet unsuspecting bon vivant Professor Horace Slughorn, who may have a clue as to their enemy's Achilles' heel. Meanwhile, teenage hormones cause the students at Hogwarts to lose focus on their true mission. As Harry and Dean Thomas clash for the affections of the lovely Ginny, Romilda Vane attempts to woo Ron away from Lavender Brown with some particularly tasty chocolates. Even Hermione isn't immune from the love bug, though she tries her hardest to suppress her growing jealousy and keep her emotions bottled up. But there is one student who remains completely aloof from the romance blossoming all around, and he intends to leave a dark impression on his classmates. With tragedy looming ever closer, it begins to appear as if peace will prove elusive in Hogwarts for some time to come."
+      "title": "Teaching Mrs. Tingle (2/9) Movie CLIP - Caught Cheating (1999) HD",
+      "query": "Caught Cheating",
+      "film_description": "After the success of Scream, I Know What You Did Last Summer, and television's Dawson's Creek, screenwriter Kevin Williamson made his directorial debut with this screwball thriller in which an honor roll student and two friends kidnap their witchy teacher. Although her single mom (Lesley Ann Warren), a waitress, struggles to make ends meet, aspiring writer Leigh Ann Watson (Katie Holmes) works hard, avoids sexual temptation, and focuses on her studies. She hopes to make valedictorian and earn a scholarship to college -- and get away from her dead-end hometown. As her senior year draws to a close, however, she's dogged by harsh grades from her vituperative history instructor, Mrs. Tingle (Helen Mirren). On the same day she finds out that she's still in second place behind fellow valedictory candidate Mary Beth Carter (Liz Stauber), Leigh Ann must endure Mrs. Tingle's fierce criticism of the final project into which she's poured her heart. After commiserating with her best friend, aspiring actress Jo Lynn Jordan (Marisa Coughlan), and hunky stoner Luke Churner (Barry Watson), Leigh Ann runs even further afoul of Mrs. Tingle; Luke stashes an advance copy of the teacher's final exam in Leigh Ann's backpack and Tingle discovers it, promising to turn Leigh Ann in for cheating and ruin her chances of a better life. When the three teens turn up at Tingle's house to try to reason with her, Luke and Jo Lynn manage to accidentally kidnap Mrs. Tingle. Soon the three students are keeping their teacher a prisoner, trying to figure out how to blackmail her into silence while maintaining the illusion that nothing strange is going on. Teaching Mrs. Tingle was filmed under the name \"Killing Mrs. Tingle,\" but the title was changed after a rash of real-life high school killing sprees made the headlines."
     },
-    "name": "Harry Potter and the Half-Blood Prince (1/5) Movie CLIP - Harry vs. Draco (2009) HD"
+    "name": "Teaching Mrs. Tingle (2/9) Movie CLIP - Caught Cheating (1999) HD"
   }
 }
