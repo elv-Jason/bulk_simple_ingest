@@ -44,7 +44,9 @@ cd bulk_simple_ingest
 
 ## Command
 
+```
 python bulk_ingest.py
+```
 
 ## Usage
 
