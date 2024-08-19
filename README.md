@@ -42,6 +42,8 @@ cd bulk_simple_ingest
 }
 ```
 
+Bulk ABR Generation can be found [here](https://github.com/elv-Jason/abr_bulk_create)
+
 ## Command
 
 ```
